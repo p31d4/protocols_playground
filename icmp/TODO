@@ -1,0 +1,12 @@
+- docker infrastructure
+    - Dockerfile: DONE
+    - script to build docker image
+    - script to run docker
+- generate a "not stripped" executable file: DONE
+- get a reference command to explore
+- generate a reference pcap file out of the reference command
+- python script to draw the packet (based on RFC)
+- scapy script which generates a pcap output similar to the reference
+- analysis with gdb
+    - reduced code from the original
+- rust code to generated pcap similar to the reference
