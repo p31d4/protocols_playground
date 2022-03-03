@@ -1,6 +1,6 @@
 - docker infrastructure
     - Dockerfile: DONE
-    - script to build docker image
+    - script to build docker image: DONE
     - script to run docker
 - generate a "not stripped" executable file: DONE
 - get a reference command to explore
