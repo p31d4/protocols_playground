@@ -1,7 +1,7 @@
 - docker infrastructure
     - Dockerfile: DONE
     - script to build docker image: DONE
-    - script to run docker
+    - script to run docker: DONE
 - generate a "not stripped" executable file: DONE
 - get a reference command to explore
 - generate a reference pcap file out of the reference command
