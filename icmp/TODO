@@ -4,7 +4,7 @@
     - script to run docker: DONE
 - generate a "not stripped" executable file: DONE
 - get a reference command to explore: DONE
-- generate a reference pcap file out of the reference command
+- generate a reference pcap file out of the reference command: DONE
 - python script to draw the packet (based on RFC)
 - scapy script which generates a pcap output similar to the reference
 - analysis with gdb
